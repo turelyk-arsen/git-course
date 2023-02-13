@@ -17,4 +17,4 @@ We use dev branch to work with other developers without break the main code.
 'git branch' what's the branch
 'git checkout -b name of the branch'
 
-
+'git push --set-upstream origin dev' push new branch 
